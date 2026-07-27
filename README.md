@@ -82,7 +82,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/PathivadaThanuSri/PathivadaThanuSri/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/thanusriip4u-afk/thanusriip4u-afk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -90,16 +90,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PathivadaThanuSri&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathivadaThanuSri&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thanusriip4u-afk&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanusriip4u-afk&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PathivadaThanuSri&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=thanusriip4u-afk&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PathivadaThanuSri&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thanusriip4u-afk&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PathivadaThanuSri&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thanusriip4u-afk&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -125,7 +125,7 @@
 <a href="mailto:thanusrip4u@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/PathivadaThanuSri">
+<a href="https://github.com/thanusriip4u-afk">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -140,7 +140,7 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<img src="https://komarev.com/ghpvc/?username=PathivadaThanuSri&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=thanusriip4u-afk&style=for-the-badge&color=blue"/>
 
 ### ⭐ Thanks for visiting my profile!
 
