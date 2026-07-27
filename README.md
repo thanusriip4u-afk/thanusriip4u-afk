@@ -13,11 +13,9 @@
 ## 🚀 About Me
 
 🎓 **B.Tech Data Science Student** at Raghu Engineering College
-
 ⭐ **CGPA:** 8.99
 
 💻 Passionate about
-
 - Artificial Intelligence
 - Computer Vision
 - Full Stack Development
@@ -25,7 +23,6 @@
 - Web Development
 
 🌱 Currently learning
-
 - Machine Learning
 - Deep Learning
 - MediaPipe
@@ -35,192 +32,102 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 👨‍💻 Languages
+**Languages**
 
-<p>
+<p><img src="https://skillicons.dev/icons?i=python,js,html,css"/></p>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+**AI & Computer Vision**
 
-</p>
-
----
-
-## 🧠 AI & Computer Vision
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-</p>
+<p><img src="https://skillicons.dev/icons?i=opencv"/></p>
 
 - MediaPipe
 - Speech Recognition
 - Gesture Recognition
 
----
+**Tools**
 
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode"/></p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 JARVIS AI Assistant
-
+### 🤖 JARVIS AI Assistant
 > Voice-controlled AI Assistant built using Speech Recognition, Text-to-Speech and Webcam Integration.
 
-### Features
+**Features:** Voice Commands · Text-to-Speech · Live Camera · Modern HUD UI · AI Interaction
+**Tech:** `Python` `JavaScript` `Speech Recognition`
 
-- Voice Commands
-- Text-to-Speech
-- Live Camera
-- Modern HUD UI
-- AI Interaction
+### 🎨 Air Drawing App
+> Draw in the air using your fingers.
 
-**Tech**
+**Features:** Hand Tracking · Real-time Drawing · Gesture Recognition
+**Tech:** `MediaPipe` `Python`
 
-`Python`
-`JavaScript`
-`Speech Recognition`
+### ✋ Gesture Controlled Interface
+> Control applications using hand gestures.
 
----
+**Features:** Live Webcam · Gesture Detection · Human Computer Interaction
 
-## 🎨 Air Drawing App
+### 🌀 Doctor Strange Portal
+> Marvel-inspired particle animation using HTML5 Canvas.
 
-Draw in the air using your fingers.
-
-### Features
-
-- Hand Tracking
-- Real-time Drawing
-- Gesture Recognition
-
-**Tech**
-
-`MediaPipe`
-
-`Python`
+### 🌐 Responsive Websites
+> Modern websites built with HTML, CSS, and JavaScript.
 
 ---
 
-## ✋ Gesture Controlled Interface
-
-Control applications using hand gestures.
-
-### Features
-
-- Live Webcam
-- Gesture Detection
-- Human Computer Interaction
-
----
-
-## 🌀 Doctor Strange Portal
-
-Marvel-inspired particle animation using HTML5 Canvas.
-
----
-
-## 🌐 Responsive Websites
-
-Modern websites built with
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-# 📊 GitHub Analytics
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img src="https://raw.githubusercontent.com/PathivadaThanuSri/PathivadaThanuSri/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
+## 📊 GitHub Analytics
+
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PathivadaThanuSri&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathivadaThanuSri&layout=compact&theme=tokyonight"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PathivadaThanuSri&theme=tokyonight"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PathivadaThanuSri&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=PathivadaThanuSri&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📚 Currently Learning
+
+✅ Machine Learning &nbsp; ✅ Artificial Intelligence &nbsp; ✅ Computer Vision
+✅ Deep Learning &nbsp; ✅ Python &nbsp; ✅ Full Stack Development
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🏅 Achievements
-
-🏆 8.94 CGPA
-
-🤖 Built AI Assistant
-
-🎨 Built Air Drawing App
-
-✋ Built Gesture Recognition System
-
-🌐 Developed Responsive Websites
-
-🚀 Passionate about AI & Computer Vision
-
----
-
-# 📚 Currently Learning
-
-✅ Machine Learning
-
-✅ Artificial Intelligence
-
-✅ Computer Vision
-
-✅ Deep Learning
-
-✅ Python
-
-✅ Full Stack Development
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
 <a href="mailto:thanusrip4u@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/PathivadaThanuSri">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
@@ -233,13 +140,7 @@ Modern websites built with
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=PathivadaThanuSri&style=for-the-badge&color=blue"/>
 
 ### ⭐ Thanks for visiting my profile!
 
